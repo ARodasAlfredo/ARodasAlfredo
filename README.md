@@ -5,7 +5,7 @@ Full Stack Developer with 1 year of experience as a Front End Developer at LinkI
 ## 🚀 Featured Projects
 
 ### [LinkIt - Henry](Link-it-project.vercel.app)
-*November 2022 - December 2022*
+*November 2023 - December 2023*
 
 Description: An application aimed at connecting IT human talent with high-quality companies. My focus was on developing combined filters for effective job vacancy searches. I also achieved effective integration with the Cloudinary widget for image and file uploads.
 
@@ -23,7 +23,7 @@ Description: An application aimed at connecting IT human talent with high-qualit
 
 **Technologies and tools used:** Javascript, Typescript, React, Redux, Tailwind CSS, Express, Node.js, RESTful APIs, PostgreSQL, MongoDB, Cloudinary, Git, Slack. Agile: SCRUM, GitFlow.
 
-### Henry Hero 🦸
+### Henry Hero 🦸🏻‍♂️
 *September 2023 - November 2023*
 
 - Chat support in the Soy Henry Slack community for solving programming exercises for bootcamp applicants.

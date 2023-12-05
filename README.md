@@ -4,7 +4,7 @@ Full Stack Developer with 1 year of experience as a Front End Developer at LinkI
 
 ## 🚀 Featured Projects
 
-### [LinkIt - Henry](Link-it-project.vercel.app)
+### [LinkIt - Henry](https://Link-it-project.vercel.app)
 *November 2023 - December 2023*
 
 Description: An application aimed at connecting IT human talent with high-quality companies. My focus was on developing combined filters for effective job vacancy searches. I also achieved effective integration with the Cloudinary widget for image and file uploads.

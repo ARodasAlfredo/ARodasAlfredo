@@ -9,19 +9,14 @@ Full Stack Developer with 1 year of experience as a Front End Developer at LinkI
 
 Description: An application aimed at connecting IT human talent with high-quality companies. My focus was on developing combined filters for effective job vacancy searches. I also achieved effective integration with the Cloudinary widget for image and file uploads.
 
-**Technologies used:** Front End, Javascript, Typescript, React, Redux, Tailwind CSS, Cloudinary
-
-## 💼 Professional Experience
-
-### Front End Web Developer Junior at LinkIT
-*January 2023 - Present*
-
 - Develop the Talent view of the web application.
 - Create profile views for administrators, talents, and companies, where they can edit their professional information, upload resumes, and upload profile images.
 - Maintain and optimize the web application.
 - Collaborate with UX/UI designers to develop the company's new platform.
 
 **Technologies and tools used:** Javascript, Typescript, React, Redux, Tailwind CSS, Express, Node.js, RESTful APIs, PostgreSQL, MongoDB, Cloudinary, Git, Slack. Agile: SCRUM, GitFlow.
+
+## 💼 Professional Experience
 
 ### Henry Hero 🦸🏻‍♂️
 *September 2023 - November 2023*

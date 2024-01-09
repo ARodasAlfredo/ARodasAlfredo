@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alfredo Rodas
 
-Full Stack Developer with 1 year of experience as a Front End Developer at LinkIT, an IT talent recruitment agency. Specialized in Javascript and React with knowledge in Typescript and Redux. Experience in a team of 7 developers has allowed me to develop leadership, active listening, and self-directed learning skills. My native English and advanced Spanish, paired with the knowledge gained from my professional degree in marketing and international business, help me communicate with collaborators from diverse profiles and professional areas.
+I am a Full Stack Developer specialized in JavaScript and React with experience in TypeScript and Redux. My native English and advanced Spanish, combined with the knowledge I gained from my professional degree in marketing and business, help me communicate with collaborators from diverse backgrounds and professional areas.
 
 ## 🚀 Featured Projects
 

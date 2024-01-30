@@ -5,7 +5,7 @@ I am a Full Stack Developer specialized in JavaScript and React with experience 
 ## 🚀 Featured Projects
 
 ### [LinkIt - Henry]
-*November 2023 - December 2023*
+*November 2023 - January 2024*
 
 Description: An application aimed at connecting IT human talent with high-quality companies. My focus was on developing combined filters for effective job vacancy searches. I also achieved effective integration with the Cloudinary widget for image and file uploads.
 
